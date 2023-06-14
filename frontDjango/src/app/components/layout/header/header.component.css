@@ -1,24 +1,9 @@
-.main {
-    display: flex;
-    flex-flow: row wrap;
-    justify-content:space-between;
-    align-items: center;  
-}
+/*
+Modo con PrimeFlex
+*/
 
-.logo {
-    flex-grow: 1;
 
-}
-
-    #logo-header {
-        width: 200px;
-        height: 90px;
-    }
-
-.titulo {
-    flex-grow: 1;
-}
-
-.nav {
-    flex-grow: 3;
+#logo-header {
+    width: 200px;
+    height: 90px;
 }
